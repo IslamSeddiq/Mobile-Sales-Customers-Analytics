@@ -4,7 +4,7 @@ Hi there, I'm Islam Seddiq! 👋
 
 ## About Me 🚀
 
-I'm an aspiring **Data Analyst** passionate about transforming raw data into meaningful insights through interactive dashboards and business intelligence solutions. I enjoy working with **Power BI**, **SQL**, **Excel**, and **Python** to solve real-world business problems. My goal is to build dashboards that enable organizations to make informed, data-driven decisions.
+I'm a Junior Data Analyst with a passion for transforming raw data into actionable insights. I enjoy working with SQL, Python, and visualization tools like Power BI to solve real-world business problems. I have a strong growth mindset along with critical thinking and problem-solving skills. My goal is to help organizations make data-driven decisions that create meaningful impact.
 
 - 🔭 **Worked on:** Mobile Sales & Customer Analytics Dashboard
 - 💻 **Tools:** Power BI, DAX, Power Query, Excel
@@ -67,8 +67,8 @@ These dashboards help decision-makers to:
 
 # 📬 Get in Touch
 
-📧 **Email:** your_email@example.com
+📧 **Email:** islamseddiq17@gmail.com
 
-💼 **LinkedIn:** https://linkedin.com/in/your-profile
+💼 **LinkedIn:** (https://www.linkedin.com/in/islamseddiq/)
 
-🌐 **Portfolio:** https://your-portfolio.com
+🌐 **Portfolio:** (https://portfolio2220.my.canva.site/)
