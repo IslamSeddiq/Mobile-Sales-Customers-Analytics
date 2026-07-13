@@ -1,6 +1,6 @@
 # 📱 Mobile Sales & Customer Analytics Dashboard
 
-Hi there, I'm Islam Seddiq! 👋
+# Hi there, I'm Islam Seddiq!👋
 
 ## About Me 🚀
 
@@ -69,6 +69,6 @@ These dashboards help decision-makers to:
 
 📧 **Email:** islamseddiq17@gmail.com
 
-💼 **LinkedIn:** (https://www.linkedin.com/in/islamseddiq/)
+💼 **LinkedIn:** https://www.linkedin.com/in/islamseddiq/
 
-🌐 **Portfolio:** (https://portfolio2220.my.canva.site/)
+🌐 **Portfolio:** https://portfolio2220.my.canva.site/
